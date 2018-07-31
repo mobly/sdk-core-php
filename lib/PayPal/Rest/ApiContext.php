@@ -1,5 +1,5 @@
 <?php
-namespace PayPal\Rest;
+namespace Old\PayPal\Rest;
 
 use PayPal\Common\PPApiContext;
 /**
